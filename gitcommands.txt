@@ -1,1 +1,20 @@
-Hello World!
+Git arguments
+git init				--Initializes respository in folder
+git add 'filename'			--Adds tracking to filename
+git add *				--Adds everything in the folder
+git commit -m "message"			--Saves a changeset with message
+git push -u origin master		--Pushes commits up to origin branch from master
+git clone 'url'				--Clones the files at the url
+
+git status				--Shows you current status of your files
+git config --list			--Shows you the settings of your git version control system
+git config --global user.name "F L"	--Sets the name for the repository
+git config --global user.email "email"	--Sets the email for the respository
+
+Command line arguments
+cd 'folder'				--Opens folder
+cd ..					--Goes up one folder
+ls					--Showing all directory files
+
+mkdir 'folder'				--Makes a folder with name
+dir					--Showing all files for command prompt
